@@ -1,0 +1,4 @@
+%%writefile environment/requirements.txt
+dask
+ray
+pytest

@@ -1,0 +1,11 @@
+anomaly:
+  id: string
+  detected_at: string 
+  type: string         
+  severity: string    
+  source: string      
+  description: string
+  metrics:
+    metric_name: string
+    expected_value: number
+    observed_value: number
