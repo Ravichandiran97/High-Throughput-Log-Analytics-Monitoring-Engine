@@ -103,7 +103,3 @@ fastparquet
 - Documentation (this README)
 
 ---
-
-## 🚀 Next Milestone
-Milestone 3 will extend this pipeline to **real‑time log streaming and monitoring**, integrating ingestion with live sources (e.g., Kafka) and scaling distributed parsing.
-```
