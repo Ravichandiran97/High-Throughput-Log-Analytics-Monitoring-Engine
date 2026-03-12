@@ -1,0 +1,5 @@
+Anomaly detected at index 20, value=100.0
+Anomaly detected at index 31, value=59.26139092254469
+Anomaly detected at index 70, value=10.0
+Anomaly detected at index 74, value=36.901274479551276
+Anomaly detected at index 79, value=40.06215542699554
