@@ -1,12 +1,11 @@
-# 🧠 Anomaly Detection Pipeline (Milestone 3)
+🧠 Anomaly Detection Pipeline (Milestone 3)
 
 This project implements an anomaly detection workflow using **Isolation Forest** in Python.  
 It simulates data, detects anomalies, visualizes results, and triggers alerts via email or Slack.  
 All outputs are saved into separate files for reproducibility and auditing.
 
 ---
-
-## 📂 Project Structure
+📂 Project Structure
 ```
 anomaly_detection_pipeline/
 │
@@ -24,27 +23,6 @@ anomaly_detection_pipeline/
 └── README.md                    # documentation
 ```
 
----
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/anomaly_detection_pipeline.git
-   cd anomaly_detection_pipeline
-   ```
-
-2. **Install dependencies**
-   ```bash
-   python -m pip install -r requirements.txt
-   ```
-
-3. **Run the pipeline**
-   ```bash
-   python anomaly_pipeline.py
-   ```
-
----
 
 ## 📁 Output Files
 
