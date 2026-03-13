@@ -73,4 +73,3 @@ The platform enhances **system observability**, reduces downtime, and supports e
 
 ## 📜 License
 This project is licensed under the MIT License.
-```
